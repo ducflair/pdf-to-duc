@@ -1,2 +1,2 @@
-# pdf-to-duc
-Library to transform CAD PDF's into duc files. This will enable ease of transition from old CAD projects.
+# PDF-to-Duc
+Library to transform CAD PDF's into Duc CAD files. This will enable ease of transition from old CAD projects.
